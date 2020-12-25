@@ -1,0 +1,12 @@
+C:\Users\abula\source\repos\TaskManager\TaskManager\bin\Debug\TaskManager.exe.config
+C:\Users\abula\source\repos\TaskManager\TaskManager\bin\Debug\TaskManager.exe
+C:\Users\abula\source\repos\TaskManager\TaskManager\bin\Debug\TaskManager.pdb
+C:\Users\abula\source\repos\TaskManager\TaskManager\obj\Debug\TaskManager.csprojAssemblyReference.cache
+C:\Users\abula\source\repos\TaskManager\TaskManager\obj\Debug\TaskManager.Info.resources
+C:\Users\abula\source\repos\TaskManager\TaskManager\obj\Debug\TaskManager.Properties.Resources.resources
+C:\Users\abula\source\repos\TaskManager\TaskManager\obj\Debug\TaskManager.csproj.GenerateResource.cache
+C:\Users\abula\source\repos\TaskManager\TaskManager\obj\Debug\TaskManager.csproj.CoreCompileInputs.cache
+C:\Users\abula\source\repos\TaskManager\TaskManager\obj\Debug\TaskManager.exe
+C:\Users\abula\source\repos\TaskManager\TaskManager\obj\Debug\TaskManager.pdb
+C:\Users\abula\source\repos\TaskManager\TaskManager\obj\Debug\TaskManager.Update.resources
+C:\Users\abula\source\repos\TaskManager\TaskManager\obj\Debug\TaskManager.Add.resources
